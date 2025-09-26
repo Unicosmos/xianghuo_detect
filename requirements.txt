@@ -1,0 +1,6 @@
+mlflow>=3.4.0
+ultralytics>=8.3.202
+yaml
+psutil
+dotenv
+zoneinfo
